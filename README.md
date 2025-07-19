@@ -94,3 +94,4 @@ streamlit run main.py
 
 ## Created By :
 Manbell
+minhman210304@gmail.com
